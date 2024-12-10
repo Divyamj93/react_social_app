@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st post",
+      "datetime": "July 01, 2024 11:12:10 AM",
+      "body": "for 1st test"
+    },
+    {
+      "id": "3",
+      "title": "3rd post",
+      "datetime": "July 01, 2024 11:12:10 AM",
+      "body": "for 3rd test"
+    },
+    {
+      "id": "4",
+      "title": "4th post",
+      "datetime": "July 01, 2024 11:12:10 AM",
+      "body": "for 4th test"
+    },
+    {
+      "id": "5",
+      "title": "testing 5th post",
+      "datetime": "July 01, 2024 11:12:10 AM",
+      "body": "for 5th test"
+    },
+    {
+      "id": "6",
+      "title": "new",
+      "datetime": "December 09, 2024 8:06:18 PM",
+      "body": "test"
+    },
+    {
+      "id": "7",
+      "title": "2nd",
+      "datetime": "December 10, 2024 9:47:29 PM",
+      "body": "test 2nd post"
+    }
+  ]
+}
